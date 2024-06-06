@@ -1,6 +1,6 @@
 # Password Manager
 
-A simple password manager application built with Python, `customtkinter`, and `cryptography`. This password manager allows users to add, view, and generate strong passwords, all stored securely in an encrypted format.
+A simple password manager application built with Python, `customtkinter`, and `cryptography`. This password manager allows users to add, view, and generate strong passwords, all stored securely in an encrypted format.No database instead uses a text file which the inforamtion is encrypted and uses only python 
 
 ## Features
 
@@ -22,4 +22,5 @@ A simple password manager application built with Python, `customtkinter`, and `c
 2. Install the required Python libraries:
 
 ```sh
-pip install cryptography customtkinter
+pip install cryptography 
+pip install customtkinter
